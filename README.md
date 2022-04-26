@@ -5,6 +5,6 @@ Portfolio of projects aimed at demonstrating different data science tools.
 
 ## Contents
 
-#1 [Using Pandas to Solve Business Problems](https://github.com/georgepurtell/Portfolio/blob/main/Using%20Pandas%20to%20Answer%20Business%20Questions.ipynb)
+1 [Using Pandas to Solve Business Problems](https://github.com/georgepurtell/Portfolio/blob/main/Using%20Pandas%20to%20Answer%20Business%20Questions.ipynb)
 
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgepurtell&show_icons=true&theme=dark&show_owner=True)
