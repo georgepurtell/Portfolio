@@ -10,5 +10,6 @@ Portfolio of projects aimed at demonstrating different data science tools.
 3) Machine Learning Models
 4) [Linear Optimization with PuLP](https://github.com/georgepurtell/Portfolio/blob/main/Linear%20Optimization%20with%20PuLP.ipynb)
 5) [Linear Regression Web App with Flask](https://github.com/georgepurtell/Portfolio/tree/main/Linear%20Regression%20Web%20App%20with%20Flask)
+6) [Data Analysis and Clustering](https://github.com/georgepurtell/Portfolio/blob/main/Data%20Analysis%20and%20Clustering.ipynb)
 
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgepurtell&show_icons=true&theme=dark&show_owner=True)
